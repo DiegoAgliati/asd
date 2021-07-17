@@ -33,13 +33,13 @@ html {
     background-color: darkcyan;
 }
 
-@media (min-width: 600px) {
+/* @media (min-width: 600px) {
     .c2, .c3, .c4 {
         width: 50%;
     }
-}
+} */
 
-@media (min-width: 800px) {
+/* @media (min-width: 800px) {
     .container {
         width: 800px;
         margin-left: auto;
@@ -57,4 +57,4 @@ html {
     .c5 {
         width: 34%;
     }
-}
+} */
